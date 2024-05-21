@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://tryhackme.com/p/CyberTechSauce">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberTechSauce.png" alt="TryHackMe">
+</a>
 
 <!--
 **CyberSauce001/CyberSauce001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
