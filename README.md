@@ -1,4 +1,5 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/CyberTechSauce.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/CyberTechSauce.png" />
+
 
 
 
