@@ -1,6 +1,8 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/CyberSauce.png" alt="TryHackMe">
 
 
+- DoD Cyber Sentinel May 2024 - Rank 136 out of 1440
+- US Cyber Open June 2024 - Rank 114 out of 1353
 
 
 
