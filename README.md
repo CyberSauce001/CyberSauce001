@@ -7,9 +7,11 @@ A curious and avid learner in the world of cybersecurity.
 
 
 ### CTF's
-| Event Name | Rank | Format | Date |
-| DoD Cyber Sentinel| Rank 136 / 1440| Individual| May 2024| 
-|US Cyber Open| Rank 114 / 1353| Individual| June 2024|
+
+|Event Name | Rank | Format | Date |
+|-----------|------|--------|------|
+|DoD Cyber Sentinel| Rank 136/1440| Individual | May 2024| 
+|US Cyber Open| Rank 114/1353| Individual| June 2024|
 
 
 
