@@ -1,3 +1,5 @@
+
+
 ### About Me:
 A curious and avid learner in the world of cybersecurity. 
 
@@ -6,13 +8,22 @@ A curious and avid learner in the world of cybersecurity.
 <img src="https://tryhackme-badges.s3.amazonaws.com/CyberSauce.png" alt="TryHackMe">
 
 
+### Certifications
+|Name |Vendor |
+|-----|-------|
+| Azure Solutions Architect Expert | Microsoft |
+| Azure Security Engineer Associate | Microsoft |
+| CYSA+ | Comptia |
+| Security+ | Comptia |
+| Jamf Certified Tech | Jamf|
+
+
 ### CTF's
 
 |Event Name | Rank | Format | Date |
 |-----------|------|--------|------|
 |DoD Cyber Sentinel| Rank 136/1440| Individual | May 2024| 
 |US Cyber Open| Rank 114/1353| Individual| June 2024|
-
 
 
 
