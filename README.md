@@ -24,6 +24,7 @@ A curious and avid learner in the world of cybersecurity.
 |-----------|------|--------|------|
 |DoD Cyber Sentinel| Rank 136/1440| Individual | May 2024| 
 |US Cyber Open| Rank 114/1353| Individual| June 2024|
+|LevelEffect CTF | Rank 17/885| Individual| July 2024|
 
 
 
